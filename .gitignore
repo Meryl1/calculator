@@ -1,6 +1,7 @@
 HELP.md
 .gradle
 ### M. Liliana Chamba H. ESTO ES UNA PRUEBA###
+### Conex ###
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
